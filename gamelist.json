@@ -1,6 +1,13 @@
 {
   "miazora": {
     "title": "Miagete Goran, Yozora no Hoshi o",
-    "characters": ["hikari", "saya"]
+    "characters": [
+      "hikari": [
+		"poses": [1,2,3]
+		], 
+		"saya": [
+		"poses": [1,2,3]
+		], 
+	]
   }
 }
