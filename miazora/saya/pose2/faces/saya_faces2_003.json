@@ -1,8 +1,7 @@
-﻿{
-    "type":  1,
-    "expression":  "003",
-    "OffsetX":  838,
-    "OffsetY":  360,
-    "Width":  283,
-    "Height":  192
+{
+  "expression": "003",
+  "OffsetX": 838,
+  "OffsetY": 360,
+  "Width": 283,
+  "Height": 192
 }
