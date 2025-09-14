@@ -36,5 +36,15 @@
                 ]
             }
         }
-    }
+    },
+    "cocoro": {
+        "title": "Cocoro@Function!",
+        "characters": {
+            "mina": {
+                "poses": [
+                    1
+                ]
+            }
+        }
+    },
 }
