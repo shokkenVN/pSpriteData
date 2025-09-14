@@ -3,16 +3,5 @@
     "character": "hikari",
     "pose": 3,
     "ImageWidth": 1586,
-    "ImageHeight": 3105,
-    "outfitOrder": [
-		"wUni_",
-		"wUniCoat_",
-		"wCasual_",
-		"wCasualCoat_",
-		"wLounge_",
-		"sCasual",
-		"swimsuit",
-		"underwear_",
-		"nude_"
-    ]
+    "ImageHeight": 3105
 }

@@ -6,16 +6,5 @@
     "ImageHeight": 3119,
     "extras": [
         "scarf"
-    ],
-    "outfitOrder": [
-		"wUni_",
-		"wUniCoat_",
-		"wCasual_",
-		"wCasualCoat_",
-		"wLounge_",
-		"sUni",
-		"swimsuit",
-		"underwear_",
-		"nude_"
     ]
 }
