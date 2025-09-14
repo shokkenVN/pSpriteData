@@ -1,0 +1,10 @@
+﻿{
+  "game": "cocoro",
+  "character": "mina",
+  "pose": 3,
+  "ImageWidth": 1547,
+  "ImageHeight": 2373,
+  "extras": [
+    "extensions"
+  ]
+}
